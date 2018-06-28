@@ -10,7 +10,7 @@
 
 struct Block
 {
-    char direction; // 상하좌우 1234
+    char direction; 
     int type; // 0 : 빈공간, 1 : 스네이크 몸통 , 2 : 스네이크 헤드, 3: : 아이템, -1 : 막힌 공간
 } map[MAP_X + 3][MAP_Y + 3];
 
