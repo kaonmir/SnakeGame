@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1530104167 source:c:\users\thswp\desktop\programming\project\snake game\setting.c
+
+1530147245 source:c:\users\thswp\desktop\programming\project\snake game\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	"Setting.h"
+
+1530146792 c:\users\thswp\desktop\programming\project\snake game\setting.h
+
