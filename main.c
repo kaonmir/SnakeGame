@@ -62,7 +62,7 @@ void title(void)
     printf("\n       бс                                                            бс");
     printf("\n       бс                                                            бс");
     printf("\n       бс                                                            бс");
-    printf("\n       бс                      MADE BY : GAONMIR                     бс");
+    printf("\n       бс                      MADE BY : KAONMIR                     бс");
     printf("\n       бс                                                            бс");
     printf("\n       бс             CHUNGANG UNIV. DEPARTMENT OF SOFTWARE          бс");
     printf("\n       бс                                                            бс");
@@ -93,7 +93,7 @@ void ending(void)
     printf("\n       бс                                                            бс");
     printf("\n       бс                                                            бс");
     printf("\n       бс                                                            бс");
-    printf("\n       бс                      MADE BY : GAONMIR                     бс");
+    printf("\n       бс                      MADE BY : KAONMIR                     бс");
     printf("\n       бс                                                            бс");
     printf("\n       бс             CHUNGANG UNIV. DEPARTMENT OF SOFTWARE          бс");
     printf("\n       бс                                                            бс");
